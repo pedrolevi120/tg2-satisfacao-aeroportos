@@ -19,7 +19,7 @@ pip install streamlit ollama altair playwright   # já no .venv do projeto
 ## Como rodar
 
 ```bash
-cd "/Users/pedrolevi/TG ITA"
+cd tg2-satisfacao-aeroportos   # raiz do repositório
 source .venv/bin/activate
 ollama serve &
 streamlit run codigos/04_modelos_ml/app/app.py

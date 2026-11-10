@@ -39,4 +39,8 @@ streamlit run codigos/04_modelos_ml/app/app.py   # http://localhost:8501
 
 ## Estrutura
 
-Ver [`codigos/README.md`](codigos/README.md). Os 20 relatórios gerados pelo LLM estão em [`codigos/05_interpretacao/relatorios_20/`](codigos/05_interpretacao/relatorios_20/).
+- `codigos/`: todo o código da pesquisa, por etapa. Ver [`codigos/README.md`](codigos/README.md).
+- `codigos/04_modelos_ml/app/_backup_2026-11-01/`: versão anterior do app e dos *prompts*, citada no TG.
+- `codigos/10_serie_historica/notas_*.md`: notas de trabalho de cada etapa da série 2021–2026.
+- `apresentacoes/capturar_defesa.py`: captura das telas do app usadas na apresentação.
+- `texto/`: *scripts* de compilação do TG em LaTeX. Os 20 relatórios gerados pelo LLM estão em [`codigos/05_interpretacao/relatorios_20/`](codigos/05_interpretacao/relatorios_20/).

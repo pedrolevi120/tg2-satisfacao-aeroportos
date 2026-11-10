@@ -4,7 +4,7 @@ Versão TG-2: 20 aeroportos da MPor, série 2021T1–2026T2 (21 trimestres), com
 2025 (último ano completo); seletor de LLM, aba de evolução e aba de comentários.
 
 Uso:
-    cd "/Users/pedrolevi/TG ITA"
+    cd tg2-satisfacao-aeroportos   # raiz do repositório
     source .venv/bin/activate
     streamlit run codigos/04_modelos_ml/app/app.py
 """
