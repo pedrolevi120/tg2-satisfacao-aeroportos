@@ -1,0 +1,15 @@
+# Dados, modelos e saídas não vão para o repositório (dados são públicos; ver README)
+dados/
+*.parquet
+*.csv
+*.joblib
+*.pkl
+*.npy
+*.db
+*.log
+resultados/
+saida/
+models/
+__pycache__/
+.venv/
+.DS_Store
